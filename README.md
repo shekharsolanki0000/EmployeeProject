@@ -7,8 +7,12 @@ These are function that can be performed with this application: -
 	Get a particular employee by ID,
 	Get a particular employee by name,
 	delete a particular employee by id,
-	update detailsof an employee,
+	update details of an employee,
 	soft delete a particular employee,
   Added validations also
 	
 I have used intellij idea to write codes.
+Clone this Project in local to run.
+Links are 
+HTTPS Link:- https://github.com/shekharsolanki0000/EmployeeProject.git
+SSH Link:- git@github.com:shekharsolanki0000/EmployeeProject.git
