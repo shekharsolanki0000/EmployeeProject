@@ -2,7 +2,6 @@ package com.project.Employee.error;
 
 import com.project.Employee.entity.ErrorMessage;
 import lombok.extern.slf4j.Slf4j;
-import lombok.extern.slf4j.XSlf4j;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
